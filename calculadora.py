@@ -10,3 +10,5 @@ def multiplica(a, b):
 def divide(a, b):
     return a / b
 
+def eleva(a, b):
+    return a ^ b
